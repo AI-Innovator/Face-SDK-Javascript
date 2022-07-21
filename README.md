@@ -1,13 +1,7 @@
-# fegq-test
-
-this is a test package.
+# Face-SDK-Javascript
 
 ## use
 
-+ browser
-
-`<script src="https://unpkg.com/fegq-test@0.0.2/dist/mytest.js"></script>`
-
 + node
 
-`npm install fegq-test`
+`npm i facerecognition-sdk.js`

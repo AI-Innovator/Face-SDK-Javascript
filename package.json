@@ -1,6 +1,6 @@
 {
   "name": "facerecognition-sdk.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is a face recognition package.",
   "main": "./dist/facerecognition-sdk.js",
   "scripts": {
