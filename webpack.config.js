@@ -13,7 +13,7 @@ module.exports = {
         filename: 'facerecognition-sdk.js',
         libraryTarget: 'umd',
         globalObject: 'this',
-        library: 'faceRecognitionLib',
+        library: 'faceSDK',
     },
 
     plugins: [
